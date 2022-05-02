@@ -1,0 +1,14 @@
+C:\Users\Er\source\repos\EzMath\bin\Debug\EzMath.exe.config
+C:\Users\Er\source\repos\EzMath\bin\Debug\EzMath.exe
+C:\Users\Er\source\repos\EzMath\bin\Debug\EzMath.pdb
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.csprojAssemblyReference.cache
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.Form1.resources
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.Properties.Resources.resources
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.csproj.GenerateResource.cache
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.csproj.CoreCompileInputs.cache
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.exe
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.pdb
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.Form2.resources
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.Form3.resources
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.Form4.resources
+C:\Users\Er\source\repos\EzMath\obj\Debug\EzMath.Form5.resources
